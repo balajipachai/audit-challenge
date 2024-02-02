@@ -15,8 +15,6 @@ docs/
 
 .DS_Store
 .babelrc
-lib/openzeppelin-contracts
-lib/forge-std
 .github
 
 
