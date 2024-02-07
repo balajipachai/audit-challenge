@@ -1,0 +1,9 @@
+{
+  "extends": "solhint:recommended",
+  "rules": {
+    "comprehensive-interface": "warn",
+
+    "func-param-name-mixedcase": "warn",
+    "modifier-name-mixedcase": "warn"
+  }
+}
